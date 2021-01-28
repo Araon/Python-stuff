@@ -1,4 +1,4 @@
-> *I knew I'd get burned
+> I knew I'd get burned
 > 
 >  If I held it to the end, 
 >  
@@ -6,5 +6,5 @@
 >  
 >  That I was brave enough To be unashamed To be unafraid
 >  
-> To be.*
+> To be.
 
